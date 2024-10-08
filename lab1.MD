@@ -77,6 +77,8 @@ Shift right (1):         20      00010100
 Shift right (2):         10      00001010
 
 
+Shift left (<<) and shift right (>>) operations, while useful in data manipulation, are generally not used alone in cryptography due to their simplicity and predictability, which makes them vulnerable to attacks and easily reversible. These operations lack the complexity and security required for effective encryption, as they do not increase data entropy or provide sufficient obfuscation. Instead, they are typically incorporated into more complex algorithms alongside other operations to ensure robust security and protect against various cryptographic attacks.
+
 A.12
 In several cases in cryptography, we try and factorize a
 value into its factors. An example is 15, and which has
