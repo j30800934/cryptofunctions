@@ -69,14 +69,12 @@ Using Python, using a decimal value of 41, determine
 the result of a shift left by one bit, a shift left by two
 bits, a right shift by one bit, and a right shift by two bits:
 
-000000001   - 1
-000000010   - 2
-000000011   - 3
-000000100   - 4
-000000101   - 5
-000000111   - 6
-
-0100 0001
+Binary form:             101001
+Decimal form:            41      00101001
+Shift left  (1):         82      01010010
+Shift left  (2):         164     10100100
+Shift right (1):         20      00010100
+Shift right (2):         10      00001010
 
 
 A.12
@@ -247,3 +245,8 @@ a=2,175,143, seed=3553, c=10,653, and m=1,000,000.
 Generated sequence: [293732, 114329, 934700, 172753, 489332, 85129, 759100, 61953, 644932, 335929]
 
  First four numbers of sequence? = 293732, 114329, 934700, 172753
+
+
+
+
+
