@@ -18,5 +18,5 @@ def equivalent(type, val):
 
 
 
-value = equivalent("Dec", 93)
+value = equivalent("Dec", '93')
 print(value)

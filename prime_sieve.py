@@ -33,7 +33,7 @@ def sieve_for_primes_to(n):
 if __name__ == "__main__":
     try:
         # Set default test value or take input from command-line
-        test = 10000
+        test = 1000
         if len(sys.argv) > 1:
             test = int(sys.argv[1])
         

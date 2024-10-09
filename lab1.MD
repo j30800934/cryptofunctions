@@ -90,6 +90,7 @@ Think of two extremely large values and determine their
 factors
 
 Prime factors of 432: 2 × 2 × 2 × 2 × 3 × 3 × 3
+Prime factors of 68367362: 2 × 7 × 23 × 241 × 881
 
 Prime factors of 200000: 2 × 2 × 2 × 2 × 2 × 2 × 5 × 5 × 5 × 5 × 5
 
@@ -249,6 +250,106 @@ Generated sequence: [293732, 114329, 934700, 172753, 489332, 85129, 759100, 6195
  First four numbers of sequence? = 293732, 114329, 934700, 172753
 
 
+
+
+
+
+Lab1 C
+
+ASCII Output:
+89oAWFF>+iZ)JP
+,gm*IQm,i$?5D@x8sM@+
+
+
+ 89þoA½WÄFFêÌ>Ë+iZç)îJÆP«,gmì*è´ê¤I±QÃàmÖÉÀ,iÅì¤$?5                     Tzs±§¢M@+êôD@x8ÀuäÃ
+
+2.
+
+ASCII Output:
+5qnYB@S=0fM7DVJTk~KX#I
+                      )Vah)
+                           _Dp0(* tNALw2n-Dp|UGC;CI
+
+5qÙnY·BÃ@S¦
+=0fM¢7òDVJæÈ÷£KX#êØI
+                    )Vah©)óææê
+                              £_DÂìpÖß0(Äù¤* t»NA§Lw2ºÕnïÞ-DÍ¼¿>p¥ë|U«üóGÝC;ÏCIè
+                                                                                "°
+
+ 3.
+
+ ASCII Output:
+{xN0H)4I?\;VFOl?OC'B1Gz%/_T#=('R$fUZOm{h,
+o\1~O6H dXe
+
+Ó³»p{®þxN¬0´ùH)À4Iï?÷ÍØÆ<°sB BÔSéÌ=Ø=.\ê;éVÏFù×Ol?¼Ó¸ðOC'¯B1GÂz%¸/âæøí_²TÉî#ÖÌ=(Çöâ'R$fÂþUZ£Om{µhôØ×,
+¾o\ï¿÷é1~O
+
+4.
+ASCII Output:
+,`m4X[\+=.L<RPMAIh?OWoA
+ONp(k1_q]t9KuN>6IF!Ow^!z<,eCrt
+
+
+5.
+ASCII Output:
+XEv{f0JrM9|IqHYzC;IS
+                    +
+p+s:
+    clYt
+
+6.
+
+ASCII Output:
+5<aJULA!doZzRGJRwzV^_&O
+                       +G|q&@R\f;('.zLIRRx{'<HnAo|M0JE)2LE 
+gP&mD<GcY(.mfH7t
+
+7.
+
+ASCII Output:
+(=iCÉD'%#CGPpsC B[|%(Bj3m,:yJKMw<b0IqGuzT~O>=Ile"y@'
+
+8.
+
+ASCII Output:
+)
+qm]CLEn+.E,C?kGD;LRwi1E_o f0.pOGRRj>i~@wMjI}RO<(O oR
+
+
+9.
+
+ASCII Output:
++L%(DYDmi|5?~KO9f7C>
+
+10.
+
+ASCII Output:
+}
+_QO%0fIzN@QEz?D_;T
+                  >A.r>X~\vi$TKS9:'~B`kHg`Dz.Ii$RgfD!HbY]alYc
+                                                             I4*(xDr!@c#t=[QSQ.
+
+11.
+
+ASCII Output:
+
+>:o`!F5CWHpsCZ_.
+     Co-(1R"sBGFRt.h+_kM9kPbHGzC4
+txQmDS?qcY`
+
+
+12.
+
+ASCII Output:
+)= XUS,doF3CGBIq?GSoHI7Fo%(B
+                           p(|0myDZO9o7JrTI99L|VW.5E>"@+pO
+
+13.
+
+ASCII Output:
+5qeOQn -}I?KN~iV
+jTE9kUc[Ddb8vOGFk{i;
 
 
 
